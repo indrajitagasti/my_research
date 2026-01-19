@@ -1,0 +1,22 @@
+Sophia Antipolis, France, 15 January 2026
+
+Today ETSI announces the publication of its new standard, ETSI EN 304 223, that provides baseline cybersecurity requirements for AI models and systems. Building on the foundational work set out in its recent Technical Specification, it is a first globally applicable European Standard (EN) for AI cybersecurity. The EN has been extensively reviewed, and formally approved by National Standards Organisations voting, giving it a broader international scope and strengthening its authority across global markets.
+
+ETSI EN 304 223 establishes a robust framework to shield AI systems from growing and increasingly sophisticated cyber threats. Reinforcing the principles introduced in ETSI TS 104 223, the new standard guarantees a mature, structured and lifecycle-based set of baseline security requirements for AI models and systems.
+
+The standard acknowledges that AI represents a distinct cybersecurity challenge that traditional software has not offered. Traditional software introduced the world to the need for cybersecurity awareness. Today the risks emerging from AI require cyber defences that account for these new and unique characteristics. These risks include data poisoning, model obfuscation, indirect prompt injection, and vulnerabilities created by complex data management and operational practices. The ETSI EN reconciles established best practices in cybersecurity with targeted, novel measures designed specifically for AI systems.
+
+Adopting a whole life-cycle approach, ETSI EN 304 223 defines 13 principles and requirements across five phases: secure design, secure development, secure deployment, secure maintenance, and secure end of life. Each one of these phases align with internationally recognised AI lifecycle models, ensuring consistency and interoperability with existing standards and guidance. Relevant standards and publications are referenced at the start of each principle to support implementation and harmonisation within the wider AI ecosystem.
+
+The EN will be instrumental for stakeholders throughout the AI supply chain, from vendors to integrators and operators, and will provide them with a clear and logical baseline for AI security. Its scope covers AI systems incorporating deep neural networks, including generative AI, and is developed for systems intended for real-world deployments. It reflects the expertise of international organisations, government bodies, and the cybersecurity and AI communities whose contributions ensure this collaborative, cross‑disciplinary effort is both globally relevant and practically applicable across diverse sectors.
+
+Finally, an upcoming Technical Report, ETSI TR 104 159, will further this work with a domain-specific application of the ETSI EN 304 223 principles to generative AI, focusing on deepfakes, misinformation, disinformation, confidentiality risks, copyright and IPR concerns, while delivering more prescriptive specifications for this domain where necessary.
+
+"ETSI EN 304 223 represents an important step forward in establishing a common, rigorous foundation for securing AI systems", said Scott Cadzow, Chair of ETSI's Technical Committee for Securing Artificial Intelligence". "At a time when AI is being increasingly integrated into critical services and infrastructure, the availability of clear, practical guidance that reflects both the complexity of these technologies and the realities of deployment cannot be underestimated. The work that went into delivering this framework is the result of extensive collaboration and it means that organisations can have full confidence in AI systems that are resilient, trustworthy, and secure by design." 
+
+About ETSI
+
+ETSI is one of only three bodies officially recognised by the European Union as a European Standards Organisation (ESO). It is an independent, not-for-profit body dedicated to ICT standardisation. With over 900 member organisations from more than 60 countries across five continents, ETSI offers an open and inclusive environment for members representing large and small private companies, research institutions, academia, governments, and public organisations. ETSI supports the timely development, ratification, and testing of globally applicable standards for ICT‑enabled systems, applications, and services across all sectors of industry and society.
+
+Contact
+Email: Press@etsi.org 
